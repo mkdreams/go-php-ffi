@@ -1,0 +1,1 @@
+go build -o libutil.so -buildmode=c-shared main.go
